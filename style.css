@@ -619,7 +619,6 @@ footer ul:nth-child(4) li a {
         flex-wrap: wrap;
     }
 }
-
 @media screen and (max-width:576px) {
     
     .top-banner-match {
@@ -662,7 +661,6 @@ footer ul:nth-child(4) li a {
         color: #084561;
     }
 }
-
 
 @media screen and (min-width:577px) and (max-width: 768px) {
     .top-banner-match {
@@ -742,7 +740,6 @@ footer ul:nth-child(4) li a {
         flex-wrap: wrap;
     }
 }
-
 
 @media screen and (min-width:769px) and (max-width: 992px) {
     .top-banner-match {
